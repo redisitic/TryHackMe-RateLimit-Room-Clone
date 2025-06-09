@@ -28,8 +28,8 @@ Edit
 ### 3. Import the Database
 
 - Open `phpMyAdmin` at [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
-- Create a DB named `hmr`
-- Import `db.sql` included with this project
+- Create a DB named `hammer`
+- Import `hammer.sql` included with this project
 
 ```sql
 CREATE TABLE users (
